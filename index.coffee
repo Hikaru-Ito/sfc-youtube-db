@@ -15,7 +15,7 @@ app.set('view engine', 'ect');
 
 # Connect MySQL
 db_connection = mysql.createPool
-  host: process.env.CLEARDB_DATABASE_URL || 'localhost',
+  host: process.env.DB_HOST || 'localhost',
   user: process.env.DB_USER || 'sfc_youtube_db',
   password: process.env.DB_PASS || 'sfc_youtube_db',
   database: process.env.DB_NAME || 'sfc_youtube_db'
