@@ -1,0 +1,9 @@
+<% extend 'layout' %>
+
+<h1><%= @LANG %></h1>
+
+<div class="buttons">
+<% for meta in @metas :%>
+  <a href="/search/<%= @lang_short %>/<%= meta.name %>"><button type="button" class="btn btn-default btn-lg"><%= meta.name %></button></a>
+<% end %>
+</div>

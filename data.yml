@@ -1,0 +1,52 @@
+meta:
+  funny:
+    ja: 面白い
+    kr: 이상한
+    video:
+      - https://www.youtube.com/watch?v=aQYb84mItY4
+      - https://www.youtube.com/watch?v=96JlsT6pKPU
+      - https://www.youtube.com/watch?v=mWo1ipP2Hg0
+
+  scary:
+    ja: 怖い
+    kr: 무서운
+    video:
+      - https://www.youtube.com/watch?v=VJPyY3TdEOc
+      - https://www.youtube.com/watch?v=S6XEHO861E4
+
+  anger:
+    ja: 怒り
+    kr: 분노
+    video:
+      - https://www.youtube.com/watch?v=5VN2SY8plLk
+      - https://www.youtube.com/watch?v=sukgBXxvggg
+      - https://www.youtube.com/watch?v=exAwwKRLUeA
+
+  love:
+    ja: 愛
+    kr: 사랑
+    video:
+      - https://www.youtube.com/watch?v=dCPmL_MX9d4
+      - https://www.youtube.com/watch?v=OtT-eUPMmBg
+
+  surprise:
+    ja: 驚き
+    kr: 놀람
+    video:
+      - https://www.youtube.com/watch?v=ESco8GybHmw
+      - https://www.youtube.com/watch?v=EPPMxGhh3Dc
+
+  sad:
+    ja: 悲しい
+    kr: 슬퍼
+    video:
+      - https://www.youtube.com/watch?v=RQKDAdCpCsg
+      - https://www.youtube.com/watch?v=WEe9Z0YagOA
+
+  comfort:
+    ja: 癒し
+    kr: 위로
+    video:
+      - https://www.youtube.com/watch?v=sUhW-HpbiGM
+      - https://www.youtube.com/watch?v=eM1UfDSznpY
+      - https://www.youtube.com/watch?v=Uv6akD0vGNU
